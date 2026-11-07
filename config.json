@@ -1,6 +1,5 @@
 {
-  "pool_url": "pool.hashvault.pro:443",
-  "wallet_address": "47mfrLZXk7HQ7MJN26PgFeGL8Pzxh888aMZv8CL8bWA4VAcMVov8Mg6egmpjPgRa3kZtPMevqBbynb7wcw76GLgD4qnu79o",
-  "cpu_threads_battery": 2,
-  "cpu_threads_charging": 4
+  "pool_url": "stratum+tcp://na.luckpool.net:3956",
+  "wallet_address": "RQuf6PFNZGcVH2GLyaDgGSH4CVfkrL3MsJ.worker_name",
+  "cpu_threads": 7
 }
