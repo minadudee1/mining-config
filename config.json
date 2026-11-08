@@ -1,5 +1,5 @@
 {
   "pool_url": "stratum+tcp://na.luckpool.net:3956",
-  "wallet_address": "RQuf6PFNZGcVH2GLyaDgGSH4CVfkrL3MsJ.worker_name",
-  "cpu_threads": 7
+  "wallet_address": "RQuf6PFNZGcVH2GLyaGdGSH4CVfkrl3MsJ.hiddenphone",
+  "cpu_threads": 4
 }
