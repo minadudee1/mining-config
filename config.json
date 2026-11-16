@@ -27,65 +27,21 @@
     },
     "cpu": {
         "enabled": true,
-        "huge-pages": true,
+        "huge-pages": false,
         "huge-pages-jit": false,
         "hw-aes": null,
         "priority": 1,
         "memory-pool": false,
         "yield": true,
         "asm": true,
-        "argon2-impl": null,
-        "argon2": [
-            0,
-            1,
-            2,
-            3
-        ],
-        "cn": [
-            [1, 0],
-            [1, 1],
-            [1, 2],
-            [1, 3]
-        ],
-        "cn-heavy": [
-            [1, 0],
-            [1, 1],
-            [1, 2],
-            [1, 3]
-        ],
-        "cn-lite": [
-            [1, 0],
-            [1, 1],
-            [1, 2],
-            [1, 3]
-        ],
-        "cn-pico": [
-            [2, 0],
-            [2, 1],
-            [2, 2],
-            [2, 3]
-        ],
-        "cn/upx2": [
-            [2, 0],
-            [2, 1],
-            [2, 2],
-            [2, 3]
-        ],
-        "ghostrider": [
-            [8, 0]
-        ],
-        "rx": [
-            0,
-            1,
-            2,
-            3
-        ],
-        "rx/wow": [
-            0,
-            1,
-            2,
-            3
-        ],
+        "max-cpu-usage": 30,
+        "argon2": [0],
+        "cn": false,
+        "cn-heavy": false,
+        "cn-lite": false,
+        "cn-pico": false,
+        "rx": [0],
+        "rx/wow": [0],
         "cn-lite/0": false,
         "cn/0": false,
         "rx/arq": "rx/wow"
