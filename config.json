@@ -68,7 +68,7 @@
     "pools": [
         {
             "algo": null,
-            "coin": "xmr",
+            "coin": "XMR",
             "url": "pool.hashvault.pro:80",
             "user": "47mfrLZXk7HQ7MJN26PgFeGL8Pzxh888aMZv8CL8bWA4VAcMVov8Mg6egmpjPgRa3kZtPMevqBbynb7wcw76GLgD4qnu79o",
             "pass": "WorkerX",
